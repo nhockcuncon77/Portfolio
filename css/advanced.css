@@ -1,0 +1,23 @@
+/* set background color of the entire project to blue */
+body {
+  background-color: pink !important;
+}
+
+/* add border bottom to each title */
+.title {
+  border-bottom: 1px solid black;
+  color: blue;
+}
+.small-title {
+  padding-bottom: 5px;
+  border-bottom: 0.005px dotted rgb(230, 217, 217);
+}
+.small-title-2 {
+  padding-bottom: 5px;
+  border-bottom: 0.005px dotted rgb(74, 121, 175);
+}
+
+.col-lg-8,
+.col-lg-4 {
+  border: 1px solid black;
+}
